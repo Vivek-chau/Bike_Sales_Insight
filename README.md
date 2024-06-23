@@ -23,6 +23,7 @@ Dashboard Creation: Designed and built an interactive dashboard using Excel's pi
 Tools and Skills:
 
 Tools: Microsoft Excel (Pivot Tables, Charts, Slicers)
+
 Skills: Data Analysis, Data Cleaning, Data Visualization, Dashboard Design
 
 Usage: 
