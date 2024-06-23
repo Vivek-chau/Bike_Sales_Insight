@@ -17,7 +17,9 @@ Key Insights:
 Project Steps:
 
 Data Collection and Cleaning: Imported and cleaned the bike sales data to ensure it is accurate and consistent.
+
 Data Analysis: Analyzed the data to identify trends, and customer demographics using various Excel functions.
+
 Dashboard Creation: Designed and built an interactive dashboard using Excel's pivot tables, charts, and slicers to visualize the data.
 
 Tools and Skills:
